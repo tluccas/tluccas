@@ -1,8 +1,8 @@
-:coffee: Olá, eu sou Lucas Alves
-
-🎯 Desenvolvedor Back-End com foco em soluções robustas e escaláveis.  
-💻 Trabalho principalmente com **Java**.
-
+:coffee: Opa, sou Lucas Alves
+<div>
+🎯 Desenvolvedor Back-End com foco em soluções robustas e escaláveis.
+💻 Trabalho principalmente com <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>.
+</div>
 ---
 
 :computer: Tecnologias e Ferramentas
