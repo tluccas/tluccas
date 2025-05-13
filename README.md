@@ -1,4 +1,4 @@
-:coffee: Opa, sou Lucas Alves
+:coffee: Opa, me chamo Lucas Alves
 
 🎯 Desenvolvedor Back-End com foco em soluções robustas e escaláveis.  
 💻 Trabalho principalmente com **Java**.
