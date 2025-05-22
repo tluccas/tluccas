@@ -14,8 +14,15 @@
   <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql"/>
 </div>
 
+---
+<div>
+
+  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tluccas&hide=html&layout=compact&theme=default)
 
 ---
+</div>
+
 
 :mailbox_with_mail: Contato
 
