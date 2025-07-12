@@ -20,7 +20,7 @@
 <div>
 
   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tluccas&hide=html&layout=compact&theme=default)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tluccas&hide=html&layout=compact&theme=dracula)
 
 ---
 </div>
@@ -29,8 +29,10 @@
 :mailbox_with_mail: Contato
 
 <div>
-  <a href="https://www.linkedin.com/in/lucasalvesz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href= "mailto:lucas1901alves@gmail.com"><img src= "https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"></a>
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=lucas1901alves@gmail.com" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasalvesz" alt="LinkedIn"/></a>
 </div> 
 
 ---
