@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/iOXjN2i.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-:coffee: Opa, me chamo Lucas Alves
+:coffee: Muito prazer, me chamo Lucas Alves
 
 🎯 Desenvolvedor Back-End com foco em soluções robustas e escaláveis.  
 💻 Trabalho principalmente com **Java** e **Banco de dados relacionais**.
