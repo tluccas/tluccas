@@ -25,10 +25,11 @@
 </div>
 
 ---
-<div align="center">
+<div>
 
   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tluccas&hide=html&layout=compact&theme=dracula)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tluccas&hide=html&layout=compact&theme=dark#gh-dark-mode-only" width="26%">
+  <img src="https://github-readme-stats.vercel.app/api?username=tluccas&show_icons=true&theme=dark#gh-dark-mode-only" width="32%">
 
 ---
 </div>
