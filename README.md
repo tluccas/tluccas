@@ -1,13 +1,13 @@
-<img src="https://i.imgur.com/iOXjN2i.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://i.imgur.com/iOXjN2i.png" alt="ilustração de um computador" min-width="350px" max-width="350px" width="350px" align="right">
 <div align="center">
-<h3>:coffee: Muito prazer, me chamo Lucas Alves</h3>
-  <p>Desenvolvedor full-stack</p>
+  <img src="https://i.imgur.com/XgSniO5.png" width="400">
+  <p><em>Atualmente Desenvolvedor Full-Stack Freelancer</em></p>
 </div>  
 
 
 ---
 <div align="center">
-<h3>:computer: Tecnologias e Ferramentas</h3>
+<h3>:computer: Minhas Skills </h3>
 
 </div>
 <div align="center">
@@ -22,14 +22,13 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   
-</div>
+</div >
 
 ---
-<div>
+<div align="center">
 
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tluccas&hide=html&layout=compact&theme=dark#gh-dark-mode-only" width="31%">
-  <img src="https://github-readme-stats.vercel.app/api?username=tluccas&show_icons=true&theme=dark#gh-dark-mode-only" width="34%">
 
 ---
 </div>
