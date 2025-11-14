@@ -2,12 +2,10 @@
 
 <div align="center">
   <img src="https://i.imgur.com/XgSniO5.png" width="400">
-  <p><em>Atualmente Desenvolvedor Full-Stack Freelancer</em></p>
+  <p><em>Desenvolvedor Full-Stack Freelancer</em></p>
 </div>
 
-
-###
-
+---
 <div align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="28"/>
