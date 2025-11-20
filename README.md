@@ -29,7 +29,7 @@
 
 <div align="center">
   <h3>:mailbox_with_mail: Contato</h3>
-  <a href="https://www.linkedin.com/in/lucasalvesz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/lucasalvesz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href= "mailto:lucas1901alves@gmail.com"><img src= "https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"></a>
 </div>
 
