@@ -6,7 +6,7 @@
 </div>
 
 ---
-<h3 align="center">☕-<em> Minhas Skills:</em></h3>
+<h3 align="center">☕-<em> Stacks:</em></h3>
 <div align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" height="28"/>
