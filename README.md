@@ -6,6 +6,7 @@
 </div>
 
 ---
+<h3 align="center">☕-<em> Minhas Skills:</em></h3>
 <div align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" height="28"/>
@@ -19,18 +20,19 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="28"/>
 </div>
 
----
-<div align="center">
-  <img src="https://media.discordapp.net/attachments/1445999978978738281/1446000038944964639/readmegif.gif?ex=693263fa&is=6931127a&hm=6449b4edd7388851e893d7e78b0076c18d676ef310d29c2f1b76de68c873a469&=" width="40%">
-</div>
 
 ---
 
 
 <div align="center">
-  <h3>:mailbox_with_mail: Contato</h3>
+  <h3>:mailbox_with_mail: Entre em Contato</h3>
   <a href="https://www.linkedin.com/in/lucasalvesz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href= "mailto:lucas1901alves@gmail.com"><img src= "https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"></a>
 </div>
 
 ###
+
+---
+<div align="center">
+  <img src="https://media.discordapp.net/attachments/1445999978978738281/1446000038944964639/readmegif.gif?ex=693263fa&is=6931127a&hm=6449b4edd7388851e893d7e78b0076c18d676ef310d29c2f1b76de68c873a469&=" width="40%">
+</div>
