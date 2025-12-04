@@ -21,7 +21,7 @@
 
 ---
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tluccas&hide=html&layout=compact&theme=github_dark" width="30%">
+  <img src="https://media.discordapp.net/attachments/1445999978978738281/1446000038944964639/readmegif.gif?ex=693263fa&is=6931127a&hm=6449b4edd7388851e893d7e78b0076c18d676ef310d29c2f1b76de68c873a469&=" width="40%">
 </div>
 
 ---
