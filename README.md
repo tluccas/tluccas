@@ -22,6 +22,12 @@
 
 
 ---
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=tluccas&show_icons=true&theme=github_dark" width="39.5%">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tluccas&hide=html&layout=compact&theme=github_dark" width="30%">
+</div>
+
+---
 
 
 <div align="center">
@@ -32,7 +38,4 @@
 
 ###
 
----
-<div align="center">
-  <img src="https://i.imgur.com/NM6q8bw.gif" width="40%">
-</div>
+
