@@ -1,11 +1,5 @@
-![](https://capsule-render.vercel.app/api?type=waving&height=140&color=396FC6&textBg=false&fontAlign=0&fontAlignY=0&descAlign=0&descAlignY=0)
-
-<div align="center">
-  <img src="https://i.imgur.com/XgSniO5.png" width="400">
-  <p><em>Desenvolvedor Full-Stack Freelancer</em></p>
-</div>
-
----
+![](https://capsule-render.vercel.app/api?type=waving&height=300&color=396FC6&section=header&text=Lucas%20Alves&fontSize=60&fontColor=ffff&desc=Desenvolvedor%20Full%20Stack)
+  
 <h3 align="center">🛠️ Tech Stack</h3>
 
 <h4 align="center">↪ Backend</h4>
