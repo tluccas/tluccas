@@ -56,6 +56,13 @@
 
 ---
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tluccas&layout=compact&theme=prussian" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tluccas&layout=compact&theme=prussian" width="380"/>
+</div>
+
+---
+
 
 <div align="center">
   <h3>:mailbox_with_mail: Entre em Contato</h3>
