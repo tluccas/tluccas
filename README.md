@@ -51,11 +51,14 @@
 ---
 
 <div align="center">
+  <h3>⤿ GitHub Stats ⤾</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tluccas&layout=compact&theme=prussian" />
   <img src="https://github-readme-stats.vercel.app/api?username=tluccas&layout=compact&theme=prussian" width="380"/>
 </div>
 
 ---
+
+
 
 
 <div align="center">
@@ -64,6 +67,5 @@
   <a href= "mailto:lucasalvez.dev@gmail.com"><img src= "https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"></a>
 </div>
 
-###
-
+<div align="center"> <em>Coding the future</em> </div>
 
