@@ -1,5 +1,7 @@
-![](https://capsule-render.vercel.app/api?type=waving&height=300&color=396FC6&section=header&text=Lucas%20Alves&fontSize=60&fontColor=ffff&desc=Desenvolvedor%20Full%20Stack)
-  
+
+<img width="1536" height="487" alt="final-banner" src="https://github.com/user-attachments/assets/758aaa86-4087-4c25-b138-bf0e9eba810d" />
+
+
 <h3 align="center">🛠️ Tech Stack</h3>
 
 <h4 align="center">↪ Backend</h4>
