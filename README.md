@@ -1,6 +1,13 @@
 
 <img width="1536" height="487" alt="final-banner" src="https://github.com/user-attachments/assets/758aaa86-4087-4c25-b138-bf0e9eba810d" />
 
+<div align="center">
+  <br><br>
+  <img width="300" height="200" alt="avatar" src="https://github.com/user-attachments/assets/b56c03eb-4709-48d1-850c-80bb89e8abea" />
+
+  ![EXP](https://img.shields.io/badge/Dev_Experience-+2y-orange)
+</div>
+
 
 <h3 align="center">🛠️ Tech Stack</h3>
 
