@@ -1,11 +1,10 @@
+<img width="1536" height="450" alt="banner" src="https://github.com/user-attachments/assets/046ffea3-a59f-4115-8593-9c39086ac977" />
 
-<img width="1536" height="487" alt="final-banner" src="https://github.com/user-attachments/assets/758aaa86-4087-4c25-b138-bf0e9eba810d" />
 
 <div align="center">
-  <br><br>
   <img width="300" height="200" alt="avatar" src="https://github.com/user-attachments/assets/b56c03eb-4709-48d1-850c-80bb89e8abea" />
-
-  ![EXP](https://img.shields.io/badge/Dev_Experience-+2y-orange)
+  
+  ![EXP](https://img.shields.io/badge/Dev_Full_Stack-+1y-orange)
 </div>
 
 
