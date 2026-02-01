@@ -4,8 +4,6 @@
 <div align="center">
   <br></br>
   <img width="300" height="200" alt="avatar" src="https://github.com/user-attachments/assets/b56c03eb-4709-48d1-850c-80bb89e8abea" />
-  
-  ![EXP](https://img.shields.io/badge/Dev_Full_Stack-+1y-orange)
 </div>
 
 
