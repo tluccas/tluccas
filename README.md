@@ -6,7 +6,9 @@
   <img width="300" height="200" alt="avatar" src="https://github.com/user-attachments/assets/b56c03eb-4709-48d1-850c-80bb89e8abea" />
 </div>
 
-
+<div align="center">
+<img width="100%" height="5" alt="div" src="https://github.com/user-attachments/assets/15697aae-78ad-4d06-a9dc-fa8c8695b4ed" />
+</div>
 <h3 align="center">🛠️ Tech Stack</h3>
 
 <h4 align="center">↪ Backend</h4>
@@ -55,16 +57,20 @@
 </div>
 
 
----
+<div align="center">
+<img width="100%" height="5" alt="div" src="https://github.com/user-attachments/assets/15697aae-78ad-4d06-a9dc-fa8c8695b4ed" />
+</div>
 
 <div align="center">
   <h3>⤿ GitHub Stats ⤾</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tluccas&layout=compact&theme=prussian" />
 </div>
 
----
-
-
+<div align="center">
+  <br></br>
+<img width="100%" height="5" alt="div" src="https://github.com/user-attachments/assets/15697aae-78ad-4d06-a9dc-fa8c8695b4ed" />
+  
+</div>
 
 
 <div align="center">
