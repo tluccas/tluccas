@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-<img width="100%" height="5" alt="div" src="https://github.com/user-attachments/assets/15697aae-78ad-4d06-a9dc-fa8c8695b4ed" />
+<img width="100%" height="3" alt="div" src="https://github.com/user-attachments/assets/15697aae-78ad-4d06-a9dc-fa8c8695b4ed" />
 </div>
 <h3 align="center">🛠️ Tech Stack</h3>
 
@@ -58,7 +58,8 @@
 
 
 <div align="center">
-<img width="100%" height="5" alt="div" src="https://github.com/user-attachments/assets/15697aae-78ad-4d06-a9dc-fa8c8695b4ed" />
+  <br></br>
+<img width="100%" height="3" alt="div" src="https://github.com/user-attachments/assets/15697aae-78ad-4d06-a9dc-fa8c8695b4ed" />
 </div>
 
 <div align="center">
@@ -68,13 +69,13 @@
 
 <div align="center">
   <br></br>
-<img width="100%" height="5" alt="div" src="https://github.com/user-attachments/assets/15697aae-78ad-4d06-a9dc-fa8c8695b4ed" />
+<img width="100%" height="3" alt="div" src="https://github.com/user-attachments/assets/15697aae-78ad-4d06-a9dc-fa8c8695b4ed" />
   
 </div>
 
 
 <div align="center">
-  <h3>:mailbox_with_mail: Entre em Contato</h3>
+  <h3>:mailbox_with_mail: Let's Talk?</h3>
   <a href="https://www.linkedin.com/in/lucasalvesz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href= "mailto:lucasalvez.dev@gmail.com"><img src= "https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"></a>
 </div>
