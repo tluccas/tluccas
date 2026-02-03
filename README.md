@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=35&pause=500&color=F76A22&center=true&vCenter=true&repeat=false&width=435&lines=Full+Stack+Developer)](https://git.io/typing-svg)
 
 <h2>Hi Dev, Welcome!</h2>
-My name is Lucas Alves, i am a Full Stack Deleoper and Digital Designer completely passionate about the world of technology. I have been working as a Freelance Full Stack Developer since January 2025, working with the Node.js Ecossystem (Nest.js and Next.js) and other techs (Spring Boot and Laravel)
+My name is Lucas Alves, i am a Full Stack Developer and Digital Designer completely passionate about the world of technology. I have been working as a Freelance Full Stack Developer since January 2025, working with the Node.js Ecossystem (Nest.js and Next.js) and other techs (Spring Boot and Laravel)
 </div>
 <h3 align="center">🛠️ Tech Stack</h3>
 
