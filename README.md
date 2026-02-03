@@ -1,13 +1,10 @@
 <img width="1536" height="450" alt="banner" src="https://github.com/user-attachments/assets/046ffea3-a59f-4115-8593-9c39086ac977" />
 
-
 <div align="center">
   <br></br>
-  <img width="300" height="200" alt="avatar" src="https://github.com/user-attachments/assets/b56c03eb-4709-48d1-850c-80bb89e8abea" />
-</div>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=35&pause=500&color=F76A22&center=true&vCenter=true&repeat=false&width=435&lines=Full+Stack+Developer)](https://git.io/typing-svg)
 
-<div align="center">
-<img width="100%" height="3" alt="div" src="https://github.com/user-attachments/assets/15697aae-78ad-4d06-a9dc-fa8c8695b4ed" />
 </div>
 <h3 align="center">🛠️ Tech Stack</h3>
 
