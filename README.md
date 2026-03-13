@@ -63,7 +63,8 @@ My name is Lucas Alves, i am a Full Stack Developer and Digital Designer complet
 
 <div align="center">
   <h3>⤿ GitHub Stats ⤾</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tluccas&layout=compact&theme=prussian" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tluccas&layout=compact&theme=darcula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tluccas&show_icons=true&theme=darcula" width="395" />
 </div>
 
 <div align="center">
