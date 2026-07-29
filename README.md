@@ -35,6 +35,7 @@ My name is Lucas Alves, i am a Full Stack Developer and Digital Designer complet
   <img src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql" height="28"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" height="28"/>
 </div>
 
 <br/>
@@ -42,8 +43,12 @@ My name is Lucas Alves, i am a Full Stack Developer and Digital Designer complet
 <h4 align="center">↪ Infra & Tools</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="28"/>
+  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Traefik-%252300314b.svg?style=for-the-badge&logo=traefikproxy&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" height="28"/>
 </div>
 
 <h4 align="center">↪ Languages</h4>
