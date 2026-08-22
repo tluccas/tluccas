@@ -5,7 +5,7 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=600&size=35&pause=500&color=F76A22&center=true&vCenter=true&repeat=false&width=435&lines=Full+Stack+Developer)](https://git.io/typing-svg)
 
-<h2>Hi Dev, Welcome!</h2>
+<h2>Hi, Welcome!</h2>
 My name is Lucas Alves, i am a Full Stack Developer and Digital Designer completely passionate about the world of technology. I have been working as a Freelance Full Stack Developer since January 2025, working with the Node.js Ecossystem (Nest.js and Next.js), Spring Boot (Java 17 - 21) and other techs (Laravel, Python)
 </div>
 <h3 align="center">🛠️ Tech Stack</h3>
@@ -44,7 +44,6 @@ My name is Lucas Alves, i am a Full Stack Developer and Digital Designer complet
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="28"/>
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" height="28"/>
-  <img src="https://img.shields.io/badge/Traefik-%252300314b.svg?style=for-the-badge&logo=traefikproxy&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" height="28"/>
@@ -67,12 +66,6 @@ My name is Lucas Alves, i am a Full Stack Developer and Digital Designer complet
 </div>
 
 <div align="center">
-  <h3>⤿ GitHub Stats ⤾</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tluccas&layout=compact&theme=darcula" />
-  <img src="https://github-readme-stats.vercel.app/api?username=tluccas&show_icons=true&theme=darcula" width="395" />
-</div>
-
-<div align="center">
   <br></br>
 <img width="100%" height="3" alt="div" src="https://github.com/user-attachments/assets/15697aae-78ad-4d06-a9dc-fa8c8695b4ed" />
   
@@ -80,7 +73,7 @@ My name is Lucas Alves, i am a Full Stack Developer and Digital Designer complet
 
 
 <div align="center">
-  <h3>:mailbox_with_mail: Let's Talk?</h3>
+  <h3>:mailbox_with_mail: Interested in my work?</h3>
   <a href="https://www.linkedin.com/in/lucasalvesz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href= "mailto:lucaszsilva.dev@gmail.com"><img src= "https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"></a>
 </div>
